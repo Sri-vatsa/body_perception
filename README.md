@@ -16,3 +16,5 @@ $ yarn watch
 ```
 
 _Note: you can also install & run this project using `npm install` & `npm watch`(refer to `package.json`)_
+
+Credit to: @tensorflowjs-team. This repository adapts from the main repo [here](https://github.com/tensorflow/tfjs-models/tree/master/body-pix/)
