@@ -15,4 +15,4 @@ $ yarn
 $ yarn watch 
 ```
 
-_Note: you can also install & run this project using npm (refer to `package.json`)_
+_Note: you can also install & run this project using `npm install` & `npm watch`(refer to `package.json`)_
