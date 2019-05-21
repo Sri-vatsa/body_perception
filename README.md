@@ -10,9 +10,16 @@ $ git clone https://github.com/Sri-vatsa/body_perception.git
 $ npm install
 ```
 
-3. Run local development server which will open a browser window
+3. Run local playground server which will open a browser window
 ```
-$ npm run experiment
+$ npm run playground
+```
+
+OR
+
+Run dev script for backend calls
+```
+$ npm run dev
 ```
 
 Credit to: @tensorflowjs-team. This repository adapts from the main repo [here](https://github.com/tensorflow/tfjs-models/tree/master/body-pix/)
