@@ -7,14 +7,12 @@ $ git clone https://github.com/Sri-vatsa/body_perception.git
 
 2. Install dependencies
 ```
-$ yarn
+$ npm install
 ```
 
 3. Run local development server which will open a browser window
 ```
-$ yarn watch 
+$ npm run experiment
 ```
-
-_Note: you can also install & run this project using `npm install` & `npm watch`(refer to `package.json`)_
 
 Credit to: @tensorflowjs-team. This repository adapts from the main repo [here](https://github.com/tensorflow/tfjs-models/tree/master/body-pix/)
