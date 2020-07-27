@@ -15,7 +15,7 @@
     "canvas": "^2.5.0",
     "esm": "^3.2.25",
     "fs": "0.0.1-security",
-    "jpeg-js": "^0.3.5",
+    "jpeg-js": "^0.4.0",
     "stats.js": "0.17.0"
   },
   "scripts": {
